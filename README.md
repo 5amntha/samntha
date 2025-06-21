@@ -1,4 +1,4 @@
-## samantha
+## strkcodes
 
 <!--
 **SamnthaSwan/SamnthaSwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
